@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 - **Portfolio:** [Coming soon...]
 
 ---
+## About Me
 
+I am a passionate web developer with experience in front-end and database technologies. I am always eager to learn new skills and work on exciting projects. Feel free to connect with me on LinkedIn or reach out to me through email.
+
+---
 ## Objective
 A highly motivated and creative web developer with a strong foundation in front-end technologies. Seeking to apply my skills and knowledge in building responsive, user-friendly websites and applications while continuing to learn and grow in the field of web development.
 
@@ -78,3 +82,17 @@ A highly motivated and creative web developer with a strong foundation in front-
 ## References
 
 Available upon request.
+
+---
+## Social Media
+
+Connect with me on social media:
+
+### LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandantech56)
+
+### Twitter
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+### Instagram
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chandankumar.officialy)
