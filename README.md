@@ -14,16 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# CHANDAN KUMAR THAKUR
-
-## Contact Information
-- **Name:** [CHANDAN KUMAR THAKUR]
-- **Email:** [chandantech56@gmail.com]
-- **Phone:** [+91 8073039833]
-- **LinkedIn:** [https://www.linkedin.com/chandantech56/]
-- **GitHub:** [https://github.com/chandantech56]
-- **Portfolio:** [Coming soon...]
-
+# I AM CHANDAN KUMAR THAKUR
 ---
 ## About Me
 
@@ -34,17 +25,24 @@ I am a passionate web developer with experience in front-end and database techno
 A highly motivated and creative web developer with a strong foundation in front-end technologies. Seeking to apply my skills and knowledge in building responsive, user-friendly websites and applications while continuing to learn and grow in the field of web development.
 
 ---
-
+## Contact Information
+- **Email:** [chandantech56@gmail.com]
+- **Phone:** [+91 8073039833]
+- **LinkedIn:** [https://www.linkedin.com/chandantech56/]
+- **GitHub:** [https://github.com/chandantech56]
+- **Portfolio:** [Coming soon...]
+--
+- 
 ## Skills
 
 ### Front-End Development:
 - **HTML5** | **CSS3** | **JavaScript**
--  | **Python** | **Bootstrap**
+-  |  **Bootstrap**
 - **Responsive Design** | **CSS Flexbox & Grid**
 
 ### Back-End Development:
--**Python (Flask/Django)**
-- **Database:** **MySQL** 
+-**Python**
+- **Database:** **SQL** 
 
 ### Version Control:
 - **Git** | **GitHub**
