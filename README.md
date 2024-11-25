@@ -27,7 +27,7 @@ A highly motivated and creative web developer with a strong foundation in front-
 ---
 ## Contact Information
 - **Email:** [chandantech56@gmail.com]
-- **Phone:** [+91 8073039833]
+- **Phone:** [+91 ...........833]
 - **LinkedIn:** [https://www.linkedin.com/chandantech56/]
 - **GitHub:** [https://github.com/chandantech56]
 - **Portfolio:** [Coming soon...]
